@@ -3,7 +3,7 @@
 
 # Inventario
 
-- [Processori](./processori.md)
-- [Schede Madri](./schede_madri.md)
+- [Processori](processori.md)
+- [Schede Madri](schede_madri.md)
 
 TecnoLab Padova
